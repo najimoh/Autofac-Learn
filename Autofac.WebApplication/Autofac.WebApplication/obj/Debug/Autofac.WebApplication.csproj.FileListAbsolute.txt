@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\bin\Autofac.WebApplication.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\bin\Autofac.WebApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\obj\Debug\Autofac.WebApplication.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\obj\Debug\Autofac.WebApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\bin\Autofac.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\bin\Autofac.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\bin\Autofac.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\bin\Autofac.Configuration.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\WebSites\Autofac.WebApplication\Autofac.WebApplication\obj\Debug\Autofac.WebApplication.csprojResolveAssemblyReference.cache
